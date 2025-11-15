@@ -53,4 +53,4 @@ Los experimentos muestran resultados satisfactorios. El mejor desempeño se obtu
 - Una vez publicado el artículo, se liberarán públicamente la **base de datos etiquetada**, el **código implementado** y el resto de los resultados.
 - 
 
-[Predicciones 1](image_x5_207.jpg)
+![Predicciones 1](image_x5_207.jpg)

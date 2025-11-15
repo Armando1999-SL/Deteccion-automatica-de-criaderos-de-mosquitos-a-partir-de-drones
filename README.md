@@ -51,3 +51,8 @@ Los experimentos muestran resultados satisfactorios. El mejor desempeño se obtu
 - Además de la base de datos proporcionada por el INSP, se utilizó otra base pública de características similares disponible en línea.  
 - Aunque los resultados de la tesis ya se encuentran completos, en este repositorio solo se muestra una parte de ellos por motivos de **confidencialidad**, dado que se busca publicar un artículo académico.  
 - Una vez publicado el artículo, se liberarán públicamente la **base de datos etiquetada**, el **código implementado** y el resto de los resultados.
+- 
+
+[Predicciones 1](image_x5_207.jpg)
+[Predicciones 1](image_x5_7429.jpg)
+[Predicciones 1](image_x5_7476.jpg)

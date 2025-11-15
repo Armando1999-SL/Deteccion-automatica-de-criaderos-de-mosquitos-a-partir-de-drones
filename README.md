@@ -54,3 +54,6 @@ Los experimentos muestran resultados satisfactorios. El mejor desempeño se obtu
 - 
 
 ![Predicciones 1](image_x5_207.jpg)
+![Predicciones 2](image_x5_7429.jpg)
+![Predicciones 3](image_x5_7476.jpg)
+
